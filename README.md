@@ -113,60 +113,61 @@ This dataset contains 974 rows of customer entries and the following columns
 
 
 
-## 🔢 Key Metrics
+## 🔢 Key Metrics Summary
 
-| Metric               | Value       |
-|----------------------|-------------|
-| **Total Sales**      | 818,000     |
-| **Total Orders**     | 21,000       |
-| **Total Pizzas Sold**| 50,000       |
+| **Metric**                         | **Value**            | **Insight**                                                                 |
+|-----------------------------------|----------------------|------------------------------------------------------------------------------|
+| Total Customers                   | 974                  | Total number of unique customers analyzed                                   |
+| Retained Customers                | 690                  | Customers who are still active                                              |
+| Churned Customers                 | 284                  | Customers who stopped using MTN services                                    |
+| Overall Churn Rate                | 29%                  | Percentage of churned customers                                             |
+| Total Revenue                     | ₦58,000,000          | Revenue generated from data purchases                                       |
 
 
 ## 📊 Insights gained 
-✅ **Best and Worst Performing Pizzas**
+### 1️⃣ Gender
 
-✅ **Top Performers**:  
-**Thai Chicken Pizza** leads with **43,000** units sold, followed by **Barbecue Chicken** and **California Chicken**
+**Males** have a slightly **higher churn rate (52.82%)** compared to **females (47.18%)**, suggesting gender-targeted strategies may be relevant.
 
-❌ **Lowest Performers**:  
+### 2️⃣ Age Group
 
-**Brie Carre Pizza** is the least popular with only **11,600** units sold, others include **Spinach-based varieties**
+**Youth (34%)** and **Middle Age (32%)** segments have the **highest churn rates**, **indicating dissatisfaction or competition** affecting these age groups.
 
-Indicating potential areas to **improve** or **phased out underperforming varieties**.
+**Teens** have the **lowest churn rate at 23%**, suggesting **higher loyalty**.
 
-## ✅ **Pizza size sales**
-**Large-sized** dominate sales **45.89%**, while **X-Large** contribute atleast **1.72%.**
+### 3️⃣ Tenure
 
-This trends suggest that customers prefer **larger pizzas** over **regular** or **medium**, but the **extra large** might be too big or not cost effective for most customers.
+**Loyal customers** surprisingly have the **highest churn rate (33%)** vs. **Mid-term (27%)** and **New Customers (26%)**, indicating that **long-term users** may lack sustained **value or engagement**.
 
+### 4️⃣ MTN Device
 
-## ✅ **Pizza Category sales**
-**Classic** dominate sales **26.91%**, followed by **Supreme**  **25.46%**. The least is **Veggie** **23.68%**.
+**Highest churn rates** are associated with **Mobile SIM cards (31%)** and **4G Routers (30%)**, hinting at **device performance or service issues**.
 
-This indicates that customer preferences are **Classic & Supreme**
+**Broadband MiFi** users show the **lowest churn at 27%**.
 
 
-## ✅ **Sales trends by days**
-The highest sales occurs on **friday**, while **Sunday** had the lowest sales 
+### 5️⃣ Monthly Trend
 
-This indicates a strong **weekend effect**, with Fridays being popular for ordering pizza, potentially due end of week relaxation or  social gatherings.
+**Churn peaked in February**, suggesting **seasonality or operational disruptions** during that period.
 
+### 6️⃣ Customer Reviews
 
-## ✅ **Monthly trends by sales**
-Sales **peaks** in **July** **72.6k**, while in **October** sales **dips** to the lowest **62.4k**.
+Most customers rate their experience as **"Very Good" (212) or "Fair" (199)**, but **"Excellent" ratings (166)** are fewer, signaling room for improvement.
 
-These trends could correlate with seasonal events, holidays or marketing campaigns influencing customer behavior 
+A notable number of users gave **"Poor" (169)** and **"Fair"** reviews—correlating with churn trends.
 
 ## ✍️ Recommendations
-1️⃣ **Promote top-performing pizzas** like **Thai Chicken and Barbecue Chicken**.
+1️⃣ **Target Youth and Middle-Aged Customers**:Develop engagement campaigns or loyalty programs to retain these high-risk segments.
 
-2️⃣ **Reevaluate low-performers** like **Brie Carre Pizza and spinach-based varieties**.
+2️⃣ **Investigate Churn Among Loyal Customers:** Conduct qualitative feedback collection to understand why long-term users are leaving.
 
-3️⃣ **Focus production on L and M sizes**, which make up over 75% of total sales.
+3️⃣ **Improve Device Performance**: Review issues related to Mobile SIMs and 4G routers—consider bundling with better support or promotions.
 
-4️⃣ **Increase staffing and stock** for peak days **(Fridays)** and peak months **(June)**.
+4️⃣ **Boost Customer Satisfaction**: Encourage more "Excellent" experiences through customer support, feedback loops, and service quality improvements.
 
-5️⃣ **Introduce offers or discounts** on low-performing days (Sundays) and off-peak months (like September)
+5️⃣ Analyze February Churn Spike**: Deep dive into operations or external factors during February that could have triggered the increase in churn.
+
+
 
 ## 👩🏽‍💻 Contact:
 Created by: **Ajirola Amudat**  
