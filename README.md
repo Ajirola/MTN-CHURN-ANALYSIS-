@@ -1,8 +1,5 @@
 # MTN-CHURN-ANALYSIS-
 
-# PIZZA-SALES-ANALYSIS-
-# 🍕 Pizza Sales Dashboard
-
 ## 📑 Table of Contents
 - [Description](#description)
   
@@ -36,44 +33,37 @@
 
 
 ## 📄 Description
-A pizza company wanted to better understand customer preferences and improve business decisions using sales data. This dashboard brings their data to life revealing key patterns across products, time, and customer choices.
+This project presents an interactive dashboard for MTN's customer churn analysis. It explores trends and patterns in customer behavior, retention, and churn across different categories including age, tenure, device usage, and customer feedback.
 
 ## 📌 Project Overview
-This Power BI dashboard was built to analyze a pizza company's sales data. It uncovers which pizzas are the most and least popular, when customers are most likely to order, and what size and flavor categories are preferred. It supports smarter business decisions based on clear visual insights.
+Understanding churn patterns is vital for improving customer retention and maximizing revenue. This dashboard visualizes churn metrics from 974 MTN customers to identify areas for targeted interventions.
 
 ## ❓ Problem Statement
-The business lacked visibility into:
-
-📍 Which pizzas perform best or worst
-
-📍Customer preferences for pizza sizes and flavors
-
-📍The best days and months for sales
-
-📍Performance comparisons across categories (e.g., Veggie vs Chicken)
-
-This made it difficult to plan production, pricing, staffing, and promotions.
+MTN is experiencing a 29% customer churn rate, which may affect profitability, customer lifetime value, and brand loyalty. Identifying the key churn drivers is essential for building retention strategies.
 
 
 ## 🎯 Objective
-1️⃣ Identify top and bottom-selling pizzas
+1️⃣ To analyze churn trends across demographics, tenure, devices, and customer reviews  
 
-2️⃣ Analyze sales by pizza **category** and **size**
+2️⃣ To derive actionable, data-driven insights  
 
-3️⃣ Discover best-performing **days** and **months**
+3️⃣ To recommend effective strategies to reduce churn
 
 4️⃣ Support business decisions through easy-to-understand visuals
 
 ## 📊 Key Areas Analysed
-📍Top 5 and Bottom 5 pizzas by sales
+📍 Gender-based churn rate  
 
-📍 Daily sales patterns (Sunday to Saturday)
+📍 Age group-wise churn  
 
-📍 Monthly sales trends
+📍 Tenure category churn behavior  
 
-📍 Pizza sales by size (S, M, L, XL, XXL)
+📍 Device-specific churn analysis  
 
-📍 Pizza sales by category (Classic, Supreme, Chicken, Veggie)
+📍 Churn trend over months  
+
+📍 Customer review patterns
+  
 
 ## 📚 Data Source
 
