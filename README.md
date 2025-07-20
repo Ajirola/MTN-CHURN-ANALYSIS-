@@ -72,22 +72,27 @@ The dataset was obtained from kaggle website
 Here's the link to the dataset: https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
 
 ## 🧾 Dataset Description
-The dataset provides detailed information about pizza orders over a given period.
+This dataset contains 974 rows of customer entries and the following columns
 
-| Column Name         | Description                                                                 |
-|---------------------|-----------------------------------------------------------------------------|
-| **pizza_id**        | A unique identifier assigned to each distinct pizza variant available for ordering. |
-| **order_id**        | A unique identifier for each order made, which links to multiple pizzas.    |
-| **pizza_name_id**   | An identifier linking to a specific name of the pizza.                      |
-| **quantity**        | The number of units of a specific pizza variant ordered within an order.    |
-| **order_date**      | The date when the order was placed.                                         |
-| **order_time**      | The time when the order was placed.                                         |
-| **unit_price**      | The cost of a single unit of the specific pizza variant.                    |
-| **total_price**     | The aggregated cost of all units of a specific pizza variant in an order.   |
-| **pizza_size**      | Represents the size of the pizza (e.g., small, medium, large).              |
-| **pizza_category**  | Indicates the category of the pizza, such as vegetarian, non-vegetarian, etc. |
-| **pizza_ingredients** | Provides a list or description of the ingredients used in the pizza.       |
-| **pizza_name**      | Specifies the name of the specific pizza variant ordered.                   |
+| **Column Name**              | **Description**                                                                                                                                  |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| `Customer ID`               | A unique identifier assigned to each customer. May appear more than once if the customer owns multiple devices.                                 |
+| `Full Name`                 | Full name of the customer. Names are representative of various Nigerian ethnicities and regions.                                                  |
+| `Date of Purchase`          | Month and year the device or plan was purchased. All entries are from the year **2025**.                                                         |
+| `Age`                       | Age of the customer (ranges from **16 to 80**). Influences purchasing behavior.                                                                  |
+| `State`                     | Nigerian state where the customer resides, including the **FCT**.                                                                                |
+| `MTN Device`                | Device purchased by the customer. Includes: **Mobile SIM Card**, **Broadband MiFi**, **4G Router**, **5G Broadband Router**.                     |
+| `Gender`                    | Gender of the customer (**Male** or **Female**).                                                                                                 |
+| `Satisfaction Rate`         | A score from **0 to 5** reflecting the customer’s satisfaction level.                                                                            |
+| `Customer Review`           | Categorical review of experience: **Poor**, **Fair**, **Good**, **Very Good**, **Excellent**.                                                    |
+| `Customer Tenure in months` | How long the customer has been subscribed (in months).                                                                                           |
+| `Subscription Plan`         | The name of the MTN data plan purchased (e.g., **60GB Monthly Broadband Plan**, **7GB Monthly Plan**, etc.).                                     |
+| `Unit Price`                | Cost of the data plan in **Nigerian Naira (₦)**.                                                                                                 |
+| `Data Usage`                | Estimated data usage in **gigabytes (GB)**. Not necessarily equal to plan size—it reflects actual usage behavior.                               |
+| `Number of Times Purchased` | How many times the plan was purchased within the month (simulates usage/consumption frequency).                                                  |
+| `Total Revenue`             | Total amount spent by the customer (**Unit Price × Number of Times Purchased**).                                                                 |
+| `Customer Churn Status`     | Indicates whether the customer has churned (**Yes**) or is still active (**No**).                                                                |
+| `Reasons for Churn`         | If churned, shows the reason (e.g., **Poor Network**, **Relocation**, **High Call Tariffs**, etc.). Empty for active customers.                  |
 
 ## 🛠️ Tools Used
 - **Power BI** – for interactive dashboards and visualizations  
