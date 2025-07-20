@@ -154,14 +154,14 @@ This dataset contains 974 rows of customer entries and the following columns
 
 Most customers rate their experience as **"Very Good" (212) or "Fair" (199)**, but **"Excellent" ratings (166)** are fewer, signaling room for improvement.
 
-A notable number of users gave **"Poor" (169)** and **"Fair"** reviews—correlating with churn trends.
+A notable number of users gave **"Poor" (169)** and **"Fair"** reviews correlating with churn trends.
 
 ## ✍️ Recommendations
 1️⃣ **Target Youth and Middle-Aged Customers**:Develop engagement campaigns or loyalty programs to retain these high-risk segments.
 
 2️⃣ **Investigate Churn Among Loyal Customers:** Conduct qualitative feedback collection to understand why long-term users are leaving.
 
-3️⃣ **Improve Device Performance**: Review issues related to Mobile SIMs and 4G routers—consider bundling with better support or promotions.
+3️⃣ **Improve Device Performance**: Review issues related to Mobile SIMs and 4G routers consider bundling with better support or promotions.
 
 4️⃣ **Boost Customer Satisfaction**: Encourage more "Excellent" experiences through customer support, feedback loops, and service quality improvements.
 
