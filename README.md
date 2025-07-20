@@ -157,7 +157,7 @@ Most customers rate their experience as **"Very Good" (212) or "Fair" (199)**, b
 A notable number of users gave **"Poor" (169)** and **"Fair"** reviews correlating with churn trends.
 
 ## ✍️ Recommendations
-1️⃣ **Target Youth and Middle-Aged Customers**:Develop engagement campaigns or loyalty programs to retain these high-risk segments.
+1️⃣ **Target Youth and Middle-Aged Customers**: Develop engagement campaigns or loyalty programs to retain these high-risk segments.
 
 2️⃣ **Investigate Churn Among Loyal Customers:** Conduct qualitative feedback collection to understand why long-term users are leaving.
 
@@ -165,7 +165,7 @@ A notable number of users gave **"Poor" (169)** and **"Fair"** reviews correlati
 
 4️⃣ **Boost Customer Satisfaction**: Encourage more "Excellent" experiences through customer support, feedback loops, and service quality improvements.
 
-5️⃣ Analyze February Churn Spike**: Deep dive into operations or external factors during February that could have triggered the increase in churn.
+5️⃣ **Analyze February Churn Spike**: Deep dive into operations or external factors during February that could have triggered the increase in churn.
 
 
 
