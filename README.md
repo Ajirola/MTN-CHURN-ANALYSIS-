@@ -95,25 +95,21 @@ This dataset contains 974 rows of customer entries and the following columns
 | `Reasons for Churn`         | If churned, shows the reason (e.g., **Poor Network**, **Relocation**, **High Call Tariffs**, etc.). Empty for active customers.                  |
 
 ## 🛠️ Tools Used
-- **Power BI** – for interactive dashboards and visualizations  
-- **Microsoft Excel** – for initial data cleaning and formatting
+- **Power BI** – for data cleaning, interactive dashboards and visualizations 
 
 ## 🧹 Data Cleaning
-📍 Removed duplicates and null values
+![Screenshot](Screenshot_20250720-081923.jpg)
 
-📍 Standardized pizza names, sizes, and categories  
+📍 All columns were **well-structured** and formatted for analysis.  
 
-📍 Converted date columns to readable formats
+📍 The **“Reason for Churn”** column had **71% missing values**, and it was **dropped** to avoid skewing the analysis.  
 
-### Analysis & Visualization
-📍 Grouped and summarized data using DAX formulas in Power BI  
+📍 No other significant data quality issues were found.mats
 
-📍 Built visualizations like bar charts, donut charts, and line graphs  
 
-📍 Applied slicers for interactive filtering by category and size
 
 ## 📈 Dashboard  
-![Screenshot](Screenshot_20250718-071456.jpg)
+![Screenshot](Screenshot_20250720-074542.jpg)
 
 
 
