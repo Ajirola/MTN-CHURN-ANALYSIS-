@@ -117,9 +117,9 @@ This dataset contains 974 rows of customer entries and the following columns
 
 | **Metric**                         | **Value**            | **Insight**                                                                 |
 |-----------------------------------|----------------------|------------------------------------------------------------------------------|
-| Total Customers                   | 974                  | Total number of unique customers analyzed                                   |
-| Retained Customers                | 690                  | Customers who are still active                                              |
-| Churned Customers                 | 284                  | Customers who stopped using MTN services                                    |
+| Total Customers                   | 496                  | Total number of unique customers analyzed                                   |
+| Retained Customers                | 350                  | Customers who are still active                                              |
+| Churned Customers                 | 146                | Customers who stopped using MTN services                                    |
 | Overall Churn Rate                | 29%                  | Percentage of churned customers                                             |
 | Total Revenue                     | ₦58,000,000          | Revenue generated from data purchases                                       |
 
