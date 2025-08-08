@@ -104,7 +104,9 @@ This dataset contains 974 rows of customer entries and the following columns
 
 📍 The **“Reason for Churn”** column had **71% missing values**, and it was **dropped** to avoid skewing the analysis.  
 
-📍 No other significant data quality issues were found.mats
+📍 For deeper insights, the **Age** column was classified into defined categories **Teens (13–19)**, **Youth (20–35)**, **Middle Age (36–55)**, and **Elderly (56+)** to identify churn trends across life stages.
+
+📍 No other significant data quality issues were found.
 
 
 
