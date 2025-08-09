@@ -69,7 +69,7 @@ MTN is experiencing a 29% customer churn rate, which may affect profitability, c
 
 The dataset was obtained from kaggle website
 
-Here's the link to the dataset: https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
+Here's the link to the dataset:[LINK](#https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset)
 
 ## 🧾 Dataset Description
 This dataset contains 974 rows of customer entries and the following columns
@@ -104,7 +104,9 @@ This dataset contains 974 rows of customer entries and the following columns
 
 📍 The **“Reason for Churn”** column had **71% missing values**, and it was **dropped** to avoid skewing the analysis.  
 
-📍 For deeper insights, the **Age** column was classified into defined categories **Teens (13–19)**, **Youth (20–35)**, **Middle Age (36–55)**, and **Elderly (56+)** to identify churn trends across life stages.
+📍 For deeper insights, the **Age** column was classified into defined categories **Teens (13–19)**, **Youth (20–35)**, **Middle Age (36–55)**, and **Elderly (56+)** to identify churn trends across life stages.  
+
+📍 The **Tenure** column was grouped into segments, **New Customers (0–12 months)**, **Midterm Customers (13–36 months)**, and **Loyal Customers (37+ months)** to analyze retention patterns based on customer longevity.
 
 📍 No other significant data quality issues were found.
 
