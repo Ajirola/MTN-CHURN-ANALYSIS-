@@ -69,7 +69,7 @@ MTN is experiencing a 29% customer churn rate, which may affect profitability, c
 
 The dataset was obtained from kaggle website
 
-Here's the link to the dataset:[LINK](https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset)
+Here's the link to the dataset:[LINK](https://www.kaggle.com/datasets/oluwademiladeadeniyi/mtn-nigeria-customer-churn))
 
 ## 🧾 Dataset Description
 This dataset contains 974 rows of customer entries and the following columns
